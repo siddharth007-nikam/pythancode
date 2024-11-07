@@ -1,1 +1,1 @@
-print ("whatsup Buddy !! V1")
+print ("whatsup Buddy !! V2")
